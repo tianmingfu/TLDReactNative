@@ -1,0 +1,16 @@
+PODS:
+  - TLDReactNative (0.1.0)
+
+DEPENDENCIES:
+  - TLDReactNative (from `../`)
+
+EXTERNAL SOURCES:
+  TLDReactNative:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TLDReactNative: dd0f12e33a1efb7bbe2a6ba05ef28e1ff76f3574
+
+PODFILE CHECKSUM: bc49a77c571122e8b1081f07222fd478a6b5ff48
+
+COCOAPODS: 1.11.2

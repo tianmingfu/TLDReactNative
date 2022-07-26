@@ -1,0 +1,6 @@
+framework module TLDReactNative {
+  umbrella header "TLDReactNative-umbrella.h"
+
+  export *
+  module * { export * }
+}
