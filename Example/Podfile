@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TLDReactNative_Tests' do
+  pod 'TLDReactNative', :path => '../'
+  
+  
+end
